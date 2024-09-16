@@ -1,0 +1,334 @@
+{
+    "productos": [
+      {
+        "categoria": "Pequeños Electrodomésticos",
+        "items": [
+          {
+            "id": 1,
+            "nombre": "Licuadora",
+            "precio": 70000,
+            "caracteristicas": "600W, 1.5L, 3 velocidades",
+            "modelo": "BL600",
+            "origen": "Argentina",
+            "fotos": [
+              "../image/licuadora_001-png"
+            
+            ]
+          },
+          {
+            "id": 2,
+            "nombre": "Tostadora",
+            "precio": 25000,
+            "caracteristicas": "2 rebanadas, 7 niveles de tostado",
+            "modelo": "TS200",
+            "origen": "Brasil",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          },
+          {
+            "id": 3,
+            "nombre": "Cafetera",
+            "precio": 43500,
+            "caracteristicas": "1.2L, filtro permanente",
+            "modelo": "CF120",
+            "origen": "Colombia",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          },
+          {
+            "id": 4,
+            "nombre": "Batidora",
+            "precio": 37000,
+            "caracteristicas": "5 velocidades, 300W",
+            "modelo": "BT300",
+            "origen": "México",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          },
+          {
+            "id": 5,
+            "nombre": "Plancha",
+            "precio": 28000,
+            "caracteristicas": "2000W, vapor continuo",
+            "modelo": "PL2000",
+            "origen": "China",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          },
+          {
+            "id": 6,
+            "nombre": "Aspiradora",
+            "precio": 7500,
+            "caracteristicas": "1200W, sin bolsa",
+            "modelo": "AS1200",
+            "origen": "Alemania",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "categoria": "Heladeras y Freezers",
+        "items": [
+          {
+            "id": 7,
+            "nombre": "Heladera No Frost",
+            "precio": 45000,
+            "caracteristicas": "300L, eficiencia A+",
+            "modelo": "HN300",
+            "origen": "Argentina",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          },
+          {
+            "id": 8,
+            "nombre": "Freezer Horizontal",
+            "precio": 35000,
+            "caracteristicas": "200L, eficiencia A",
+            "modelo": "FH200",
+            "origen": "Brasil",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          },
+          {
+            "id": 9,
+            "nombre": "Heladera Combi",
+            "precio": 55000,
+            "caracteristicas": "400L, eficiencia A++",
+            "modelo": "HC400",
+            "origen": "México",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          },
+          {
+            "id": 10,
+            "nombre": "Freezer Vertical",
+            "precio": 40000,
+            "caracteristicas": "250L, eficiencia A+",
+            "modelo": "FV250",
+            "origen": "China",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          },
+          {
+            "id": 11,
+            "nombre": "Heladera Side by Side",
+            "precio": 75000,
+            "caracteristicas": "500L, eficiencia A++",
+            "modelo": "HS500",
+            "origen": "Alemania",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          },
+          {
+            "id": 12,
+            "nombre": "Freezer Compacto",
+            "precio": 25000,
+            "caracteristicas": "100L, eficiencia B",
+            "modelo": "FC100",
+            "origen": "Colombia",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "categoria": "TV y Audio",
+        "items": [
+          {
+            "id": 13,
+            "nombre": "Smart TV 50\"",
+            "precio": 60000,
+            "caracteristicas": "4K UHD, HDR",
+            "modelo": "STV50",
+            "origen": "Corea del Sur",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          },
+          {
+            "id": 14,
+            "nombre": "Barra de Sonido",
+            "precio": 15000,
+            "caracteristicas": "Bluetooth, 300W",
+            "modelo": "BS300",
+            "origen": "Japón",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          },
+          {
+            "id": 15,
+            "nombre": "Home Theater",
+            "precio": 35000,
+            "caracteristicas": "5.1 canales, 1000W",
+            "modelo": "HT1000",
+            "origen": "Estados Unidos",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          },
+          {
+            "id": 16,
+            "nombre": "Proyector",
+            "precio": 45000,
+            "caracteristicas": "Full HD, 3000 lúmenes",
+            "modelo": "PJ3000",
+            "origen": "China",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          },
+          {
+            "id": 17,
+            "nombre": "Reproductor Blu-ray",
+            "precio": 10000,
+            "caracteristicas": "4K UHD, Wi-Fi",
+            "modelo": "BR4K",
+            "origen": "Japón",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          },
+          {
+            "id": 18,
+            "nombre": "Auriculares Inalámbricos",
+            "precio": 8000,
+            "caracteristicas": "Bluetooth, cancelación de ruido",
+            "modelo": "AI800",
+            "origen": "Estados Unidos",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "categoria": "Tecnología",
+        "items": [
+          {
+            "id": 19,
+            "nombre": "Laptop",
+            "precio": 85000,
+            "caracteristicas": "Intel i7, 16GB RAM, 512GB SSD",
+            "modelo": "LP850",
+            "origen": "Estados Unidos",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          },
+          {
+            "id": 19,
+            "nombre": "Tablet",
+            "precio": 140000,
+            "caracteristicas": "7 pulgadas, memoria 64 GB, RAM 4GB, procesador Quad Core 1.5GHz",
+            "modelo": "LBO923",
+            "origen": "China",
+            "fotos": [
+              "./porducts/image/tablet_001",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          },
+          {
+            "id": 20,
+            "nombre": "Impresora",
+            "precio": 500000,
+            "caracteristicas": "multifunción, velocidad impresion 3 PPM, resolución escaneo 1920 x19200",
+            "modelo": "JMT50",
+            "origen": "Estados Unidos",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          },
+          {
+            "id": 21,
+            "nombre": "Laptop",
+            "precio": 85000,
+            "caracteristicas": "Intel i7, 16GB RAM, 512GB SSD",
+            "modelo": "LP850",
+            "origen": "Estados Unidos",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          },
+          {
+            "id": 22,
+            "nombre": "Laptop",
+            "precio": 85000,
+            "caracteristicas": "Intel i7, 16GB RAM, 512GB SSD",
+            "modelo": "LP850",
+            "origen": "Estados Unidos",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          },
+          {
+            "id": 23,
+            "nombre": "Laptop",
+            "precio": 85000,
+            "caracteristicas": "Intel i7, 16GB RAM, 512GB SSD",
+            "modelo": "LP850",
+            "origen": "Estados Unidos",
+            "fotos": [
+              "https://example.com/foto1.jpg",
+              "https://example.com/foto2.jpg",
+              "https://example.com/foto3.jpg"
+            ]
+          }
+          ]
+          }
+          ]}
