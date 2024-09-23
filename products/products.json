@@ -11,7 +11,8 @@
             "modelo": "BL600",
             "origen": "Argentina",
             "fotos": [
-              "../image/licuadora_001-png"
+              "./products/image/licuadora_001.png",
+              "./products/image/licuadora_002"
             
             ]
           },
@@ -23,61 +24,56 @@
             "modelo": "HF35",
             "origen": "Brasil",
             "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
+              ".products/image/tostadora_001",
+              "./products/image/tostadora_002"
             ]
           },
           {
             "id": 3,
             "nombre": "Cafetera",
-            "precio": 43500,
-            "caracteristicas": "1.2L, filtro permanente",
+            "precio": 450000,
+            "caracteristicas": "cafetera profesional",
             "modelo": "CF120",
-            "origen": "Colombia",
+            "origen": "Italia",
             "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
+              ".products/image/cafetera_001",
+              "./products/image/cafetera_002"
             ]
           },
           {
             "id": 4,
             "nombre": "Batidora",
-            "precio": 37000,
+            "precio": 370000,
             "caracteristicas": "5 velocidades, 300W",
             "modelo": "BT300",
-            "origen": "México",
+            "origen": "China",
             "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
+              ".products/image/batidora_001",
+              ".products/image/batidora_002"
             ]
           },
           {
             "id": 5,
             "nombre": "Plancha",
-            "precio": 28000,
+            "precio": 70000,
             "caracteristicas": "2000W, vapor continuo",
             "modelo": "PL2000",
             "origen": "China",
             "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
+              "./products/image/plancha_001",
+              ".products/image/plancha_002"
             ]
           },
           {
             "id": 6,
             "nombre": "Aspiradora",
             "precio": 7500,
-            "caracteristicas": "1200W, sin bolsa",
+            "caracteristicas": "1200W, aspiradora de tacho",
             "modelo": "AS1200",
-            "origen": "Alemania",
+            "origen": "Taiwan",
             "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
+              "./products/image/aspiradora_001",
+              "./products/image/aspiradora_002"
             ]
           }
         ]
@@ -87,82 +83,39 @@
         "items": [
           {
             "id": 7,
-            "nombre": "Heladera No Frost",
-            "precio": 45000,
+            "nombre": "Heladera Vintage",
+            "precio": 1390000,
             "caracteristicas": "300L, eficiencia A+",
             "modelo": "HN300",
-            "origen": "Argentina",
+            "origen": "Canada",
             "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
+              "./products/image/heladera_004",
+              "./products/image/heladera_005"
             ]
           },
           {
             "id": 8,
-            "nombre": "Freezer Horizontal",
-            "precio": 35000,
+            "nombre": "Freezer",
+            "precio": 700000,
             "caracteristicas": "200L, eficiencia A",
             "modelo": "FH200",
             "origen": "Brasil",
             "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
+              "./products/image/freezer_001"
             ]
           },
           {
             "id": 9,
-            "nombre": "Heladera Combi",
-            "precio": 55000,
+            "nombre": "Heladera Combye 2 puertas",
+            "precio": 2550000,
             "caracteristicas": "400L, eficiencia A++",
             "modelo": "HC400",
             "origen": "México",
             "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
-            ]
-          },
-          {
-            "id": 10,
-            "nombre": "Freezer Vertical",
-            "precio": 40000,
-            "caracteristicas": "250L, eficiencia A+",
-            "modelo": "FV250",
-            "origen": "China",
-            "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
-            ]
-          },
-          {
-            "id": 11,
-            "nombre": "Heladera Side by Side",
-            "precio": 75000,
-            "caracteristicas": "500L, eficiencia A++",
-            "modelo": "HS500",
-            "origen": "Alemania",
-            "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
-            ]
-          },
-          {
-            "id": 12,
-            "nombre": "Freezer Compacto",
-            "precio": 25000,
-            "caracteristicas": "100L, eficiencia B",
-            "modelo": "FC100",
-            "origen": "Colombia",
-            "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
+             "./products/image/heladera_001.jpg"
             ]
           }
+          
         ]
       },
       {
@@ -171,79 +124,69 @@
           {
             "id": 13,
             "nombre": "Smart TV 50\"",
-            "precio": 60000,
+            "precio": 700000,
             "caracteristicas": "4K UHD, HDR",
             "modelo": "STV50",
             "origen": "Corea del Sur",
             "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
+             "./products/image/tv_001.jpg"
             ]
           },
           {
             "id": 14,
             "nombre": "Barra de Sonido",
-            "precio": 15000,
+            "precio": 300000,
             "caracteristicas": "Bluetooth, 300W",
             "modelo": "BS300",
             "origen": "Japón",
             "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
+              "./products/image/parlante_002.jpg",
+              ".products/image/parlante_001.jpg"
             ]
           },
           {
             "id": 15,
-            "nombre": "Home Theater",
-            "precio": 35000,
+            "nombre": "Anteojos de Realidad Aumentada",
+            "precio": 8500000,
             "caracteristicas": "5.1 canales, 1000W",
             "modelo": "HT1000",
             "origen": "Estados Unidos",
             "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
+              "./products/image/realidad_001.jpg",
+              "./products/image/realidad_002.jpg"
             ]
           },
           {
             "id": 16,
             "nombre": "Proyector",
-            "precio": 45000,
+            "precio": 229000,
             "caracteristicas": "Full HD, 3000 lúmenes",
             "modelo": "PJ3000",
             "origen": "China",
             "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
+              "./products/image/proyector_001.jpg"
             ]
           },
           {
             "id": 17,
-            "nombre": "Reproductor Blu-ray",
-            "precio": 10000,
+            "nombre": "Auriculares Inalámbricos",
+            "precio": 308000,
             "caracteristicas": "4K UHD, Wi-Fi",
             "modelo": "BR4K",
             "origen": "Japón",
             "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
+              "./products/image/auricularInalambrico_002.jpg"
             ]
           },
           {
             "id": 18,
             "nombre": "Auriculares Inalámbricos",
-            "precio": 8000,
+            "precio": 80000,
             "caracteristicas": "Bluetooth, cancelación de ruido",
             "modelo": "AI800",
             "origen": "Estados Unidos",
             "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
+              "./products/image/auricularInalambrico_001.jpg"
             ]
           }
         ]
@@ -254,14 +197,12 @@
           {
             "id": 19,
             "nombre": "Laptop",
-            "precio": 85000,
+            "precio": 858000,
             "caracteristicas": "Intel i7, 16GB RAM, 512GB SSD",
             "modelo": "LP850",
             "origen": "Estados Unidos",
             "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
+              "./products/image/laptop.jpg"
             ]
           },
           {
@@ -272,9 +213,8 @@
             "modelo": "LBO923",
             "origen": "China",
             "fotos": [
-              "./porducts/image/tablet_001",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
+              "./porducts/image/tablet_001"
+              
             ]
           },
           {
@@ -285,50 +225,10 @@
             "modelo": "JMT50",
             "origen": "Estados Unidos",
             "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
-            ]
-          },
-          {
-            "id": 21,
-            "nombre": "Laptop",
-            "precio": 85000,
-            "caracteristicas": "Intel i7, 16GB RAM, 512GB SSD",
-            "modelo": "LP850",
-            "origen": "Estados Unidos",
-            "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
-            ]
-          },
-          {
-            "id": 22,
-            "nombre": "Laptop",
-            "precio": 85000,
-            "caracteristicas": "Intel i7, 16GB RAM, 512GB SSD",
-            "modelo": "LP850",
-            "origen": "Estados Unidos",
-            "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
-            ]
-          },
-          {
-            "id": 23,
-            "nombre": "Laptop",
-            "precio": 85000,
-            "caracteristicas": "Intel i7, 16GB RAM, 512GB SSD",
-            "modelo": "LP850",
-            "origen": "Estados Unidos",
-            "fotos": [
-              "https://example.com/foto1.jpg",
-              "https://example.com/foto2.jpg",
-              "https://example.com/foto3.jpg"
+              "./products/image/impresora_001.jpg"
             ]
           }
+          
           ]
           }
           ]}
