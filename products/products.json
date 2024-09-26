@@ -10,6 +10,8 @@
             "caracteristicas": "600W, 1.5L, 3 velocidades",
             "modelo": "BL600",
             "origen": "Argentina",
+            "descripcion":"lorem",
+            "alt":"xxx",
             "fotos": [
               "./products/image/licuadora_001.png",
               "./products/image/licuadora_002"
@@ -23,6 +25,8 @@
             "caracteristicas": "2 rebanadas, 7 niveles de tostado",
             "modelo": "HF35",
             "origen": "Brasil",
+            "descripcion":"lorem",
+            "alt":"xxx",
             "fotos": [
               ".products/image/tostadora_001",
               "./products/image/tostadora_002"
@@ -35,6 +39,8 @@
             "caracteristicas": "cafetera profesional",
             "modelo": "CF120",
             "origen": "Italia",
+            "descripcion":"lorem",
+            "alt":"xxx",
             "fotos": [
               ".products/image/cafetera_001",
               "./products/image/cafetera_002"
@@ -47,6 +53,7 @@
             "caracteristicas": "5 velocidades, 300W",
             "modelo": "BT300",
             "origen": "China",
+            "descripcion":"lorem",
             "fotos": [
               ".products/image/batidora_001",
               ".products/image/batidora_002"
@@ -59,6 +66,8 @@
             "caracteristicas": "2000W, vapor continuo",
             "modelo": "PL2000",
             "origen": "China",
+            "descripcion":"lorem",
+            "alt":"xxx",
             "fotos": [
               "./products/image/plancha_001",
               ".products/image/plancha_002"
@@ -71,6 +80,8 @@
             "caracteristicas": "1200W, aspiradora de tacho",
             "modelo": "AS1200",
             "origen": "Taiwan",
+            "descripcion":"lorem",
+            "alt":"xxx",
             "fotos": [
               "./products/image/aspiradora_001",
               "./products/image/aspiradora_002"
@@ -88,6 +99,8 @@
             "caracteristicas": "300L, eficiencia A+",
             "modelo": "HN300",
             "origen": "Canada",
+            "descripcion":"lorem",
+            "alt":"xxx",
             "fotos": [
               "./products/image/heladera_004",
               "./products/image/heladera_005"
@@ -100,6 +113,8 @@
             "caracteristicas": "200L, eficiencia A",
             "modelo": "FH200",
             "origen": "Brasil",
+            "descripcion":"lorem",
+            "alt":"xxx",
             "fotos": [
               "./products/image/freezer_001"
             ]
@@ -111,6 +126,8 @@
             "caracteristicas": "400L, eficiencia A++",
             "modelo": "HC400",
             "origen": "México",
+            "descripcion":"lorem",
+            "alt":"xxx",
             "fotos": [
              "./products/image/heladera_001.jpg"
             ]
@@ -128,6 +145,8 @@
             "caracteristicas": "4K UHD, HDR",
             "modelo": "STV50",
             "origen": "Corea del Sur",
+            "descripcion":"lorem",
+            "alt":"xxx",
             "fotos": [
              "./products/image/tv_001.jpg"
             ]
@@ -139,6 +158,8 @@
             "caracteristicas": "Bluetooth, 300W",
             "modelo": "BS300",
             "origen": "Japón",
+            "descripcion":"lorem",
+            "alt":"xxx",
             "fotos": [
               "./products/image/parlante_002.jpg",
               ".products/image/parlante_001.jpg"
@@ -151,6 +172,8 @@
             "caracteristicas": "5.1 canales, 1000W",
             "modelo": "HT1000",
             "origen": "Estados Unidos",
+            "descripcion":"lorem",
+            "alt":"xxx",
             "fotos": [
               "./products/image/realidad_001.jpg",
               "./products/image/realidad_002.jpg"
@@ -163,6 +186,8 @@
             "caracteristicas": "Full HD, 3000 lúmenes",
             "modelo": "PJ3000",
             "origen": "China",
+            "descripcion":"lorem",
+            "alt":"xxx",
             "fotos": [
               "./products/image/proyector_001.jpg"
             ]
@@ -174,6 +199,8 @@
             "caracteristicas": "4K UHD, Wi-Fi",
             "modelo": "BR4K",
             "origen": "Japón",
+            "descripcion":"lorem",
+            "alt":"xxx",
             "fotos": [
               "./products/image/auricularInalambrico_002.jpg"
             ]
@@ -185,6 +212,8 @@
             "caracteristicas": "Bluetooth, cancelación de ruido",
             "modelo": "AI800",
             "origen": "Estados Unidos",
+            "descripcion":"lorem",
+            "alt":"xxx",
             "fotos": [
               "./products/image/auricularInalambrico_001.jpg"
             ]
@@ -201,6 +230,8 @@
             "caracteristicas": "Intel i7, 16GB RAM, 512GB SSD",
             "modelo": "LP850",
             "origen": "Estados Unidos",
+            "descripcion":"lorem",
+            "alt":"xxx",
             "fotos": [
               "./products/image/laptop.jpg"
             ]
@@ -212,6 +243,8 @@
             "caracteristicas": "7 pulgadas, memoria 64 GB, RAM 4GB, procesador Quad Core 1.5GHz",
             "modelo": "LBO923",
             "origen": "China",
+            "descripcion":"lorem",
+            "alt":"xxx",
             "fotos": [
               "./porducts/image/tablet_001"
               
@@ -224,6 +257,8 @@
             "caracteristicas": "multifunción, velocidad impresion 3 PPM, resolución escaneo 1920 x19200",
             "modelo": "JMT50",
             "origen": "Estados Unidos",
+            "descripcion":"lorem",
+            "alt":"xxx",
             "fotos": [
               "./products/image/impresora_001.jpg"
             ]
