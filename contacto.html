@@ -3,43 +3,59 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>contacto:</title>
+    <title>Contacto| TecnoCasa</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 </head>
 <body>
+    <div id="header"></div>
     <main>
-    <h3 id="">contacto</h3>
-<p>dejanos tus dudas o consultas en el siguiente formulario:</p>
+    <h1 id="" class="d-flex align-items-center flex-column text-primary greeting-container">Contactaté con TecnoCasa</h3>
+<p class="text-center">dejanos tus dudas o consultas en el siguiente formulario:</p>
+<div class="form-container m-4">
 <form>
-<div>
-    <label for="nombre">tu nombre:</label><br>
-<input type="text" id="nombre" name="nombre" required>
+    <div class="mb-3 border border-light-subtle border-4 rounded bg-light w-70 p-3 mb-2 bg-body-secondary">
+        <label for="nombre" class="form-label">Tu nombre:</label><br>
+        <input type="text" id="nombre" name="nombre" required class="form-control" > 
+        <label for="apellido" class="form-label">tu apellido:</label>
+        <input type="text" id="apellido" name="apellido" required class="form-control" >
+
+        
+      <label for="mail" class="form-label">Correo electronico</label>
+      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" required>
+      <div class="mb-3">
+        <label for="exampleFormControlTextarea1" class="form-label">Comentario</label>
+        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+      </div>
+      
+    </div>
+    
+    
+    <button type="submit" class="btn btn-primary">Enviar</button>
+  </form>
 </div>
-<div>
-<label for="apellido">tu apellido:</label><br>
-<input type="text" id="apellido" name="apellido" required>
-</div>
-<div>
-<label for="mail">tu correo electronico:</label><br>
-<input type="email" id="mail" name="mail" required>
-</div>
-<div>
-<label for="mensaje">deja tu mensaje:</label><br>
-<textarea id="mensaje namemensaje" placeholder="dejanos tu mensaje" maxlength="1000"></textarea>
-</div>
-<div>
-<input type="submit" value="enviar">
-</div>
-</form>
+
+
+
+
+
+
+  
+
+
 <hr>
 </main>
-<footer>
-<dl>
-<dt>correo electronico:</dt>
-<dd><a href="mailto:ezequielbernardini9@gmail.com@(link unavailable) dejanos tu mensaje">envia tu correo</a> </dd>
-<dt>direccion:</dt>
-<dd>calle falsa 1234. ciudad del amanecer. provincia de nunca jamas.</dd>
-</dl>
-<a href="$irarriba">Ir arriba</a>
-</footer>
+<div id="footer"></div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script>
+        // Cargar el header y footer
+        fetch('header.html')
+            .then(response => response.text())
+            .then(data => document.getElementById('header').innerHTML = data);
+
+        fetch('footer.html')
+            .then(response => response.text())
+            .then(data => document.getElementById('footer').innerHTML = data);
+    </script>
 </body>
 </html>                                            
