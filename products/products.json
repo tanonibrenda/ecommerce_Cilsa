@@ -24,7 +24,7 @@
             "modelo": "HF35",
             "origen": "Brasil",
             "descripcion": "Voltaje: 220V\nRenová tus comidas y lucite en el hogar.\nComplemento ideal para desayunos y meriendas.\nCon capacidad para 2 rebanadas.\nPotencia de 700W.\nCuenta con 7 niveles de tostado.\nDispone de bandeja recoge migas.",
-            "foto": "./products/image/tostadora_001",
+            "foto": "./products/image/tostadora_001.png",
             "alt": "Tostadora"
           },
           {
@@ -46,7 +46,7 @@
             "modelo": "BT300",
             "origen": "China",
             "descripcion":"Voltaje: 220V\nPotente motor de 325 W para un rendimiento óptimo.\n10 velocidades ajustables para mayor versatilidad.\nDiseño planetario para mezclas uniformes y completas\nIdeal para pastelería: amasar, batir y mezclar.\nFácil limpieza gracias a su función desmontable\nGran capacidad de 4,8 litros para recetas abundantes.",
-            "foto": ".products/image/batidora_001",
+            "foto": "./products/image/baridora_001.jpg",
             "alt": "foto de batidora profesional negra, con bol de diseño planetario de acero inoxidable"
           },
           {
@@ -57,7 +57,7 @@
             "modelo": "PL2000",
             "origen": "China",
             "descripcion":"Voltaje: 220V\nPara uso domestico\na vapor\nRociador\nÁgil y dinámica.",
-            "foto": "./products/image/plancha_001",
+            "foto": "./products/image/plancha_001.jpg",
             "alt": "foto de plancha blanca y rosa"
           },
           {
@@ -68,7 +68,7 @@
             "modelo": "AS1200",
             "origen": "Taiwan",
             "descripcion":"Voltaje: 220V\nLava tus superficies.\nManguera de 2.5m de largo.\nEs apta para líquido.\nFuente de alimentación: corriente eléctrica.\nSe enciende manualmente.\nSu potencia es de 1250W.\nCable de 8m de largo.\nIncluye accesorios.",
-            "foto":"./products/image/aspiradora_001",
+            "foto":"./products/image/aspiradora_001.jpg",
             "alt": "foto de aspiradora indutrial de tacho color amarilla"
           }
         ]
@@ -84,7 +84,7 @@
             "modelo": "HN300",
             "origen": "Canada",
             "descripcion":"Voltaje: 220V\nUbicación superior del freezer.\nDimensiones: 59.5 cm de ancho, 179 cm de alto y 62 cm de profundidad.\nEstilos de los años 50 con la potencia del Siglo XXI",
-            "foto": "./products/image/heladera_004",
+            "foto": "./products/image/heladera_004.jpg",
             "alt": "foto de heladera nueva de aspecto vintage de los 50, color naranja"
           },
           {
@@ -96,7 +96,7 @@
             "origen": "Brasil",
             "descripcion":"Dimensiones: 50 cm de ancho, 83.5 cm de alto y 52 cm de profundidad.\nToda la Potencia\nTemperatura de hasta -25°C",
             "alt":"xxx",
-            "foto": "./products/image/freezer_001",
+            "foto": "./products/image/freezer_001.jpg",
             "alt": "foto de freezer blanco"
           },
           {
@@ -196,7 +196,7 @@
             "modelo": "LP850",
             "origen": "Estados Unidos",
             "descripcion":"Resolución de 1920x1080 px.\nPlaca de video Gráficos Intel Iris Xe.\nConexión wifi y bluetooth.\nCuenta con 4 puertos USB y puerto HDMI.\nModo de sonido SonicMaster.",
-            "foto": "./products/image/laptop.jpg",
+            "foto": "./products/image/laptop_001.jpg",
             "alt": "foto de laptop moderna"
           },
           {
@@ -207,7 +207,7 @@
             "modelo": "LBO923",
             "origen": "China",
             "descripcion":"Sistema: Android 13.\nPantalla 7” - 1024x600 HD.\nCPU: A133 Quad core 1.5GHz\nMemoria RAM: 4GB.\nAlmacenamiento: 64GB. Expandible por MicroSd hasta 1T\nCámara Dual.\nResolución cámara delantera: 0.3Mpx. / cámara trasera: 2.0Mpx.",
-            "foto": "./products/image/tablet_001",
+            "foto": "./products/image/tablet_001.jpg",
             "alt": "foto de tablet"
           },
           {
