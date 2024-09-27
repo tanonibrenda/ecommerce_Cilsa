@@ -12,19 +12,8 @@
             "origen": "Argentina",
             "descripcion": "Material de la jarra: Vidrio\nVoltaje: 220V.\nCapacidad de 2.2 L.\nSu potencia es de 1400 W.\nCon base antideslizante y carcasa anti ruidos.\nCuchilla resistente de acero inoxidable.\nTapa dosificadora incorporada.\nFunciona con 8 velocidades.\nCuenta con cierre de seguridad.\nLibre de BPA.\nIncluye jarra portátil.\nPica hielo.\nCon cuchilla removible.\nCantidad de cuchillas: 6.",
             
-            "fotos": [
-              {
-                "url": "./products/image/licuadora_001.png",
-                "alt": "imagen de licuadora BL600"
-              },
-              {
-                "url": "./products/image/licuadora_002.png",
-                "alt": "foto de una persona usando la licuadora"
-
-              }
-              
-              
-            ]
+            "foto": "./products/image/licuadora_001.png",
+            "alt": "imagen de licuadora BL600"
           },
           
           {
@@ -35,10 +24,8 @@
             "modelo": "HF35",
             "origen": "Brasil",
             "descripcion": "Voltaje: 220V\nRenová tus comidas y lucite en el hogar.\nComplemento ideal para desayunos y meriendas.\nCon capacidad para 2 rebanadas.\nPotencia de 700W.\nCuenta con 7 niveles de tostado.\nDispone de bandeja recoge migas.",
-            "fotos": [
-              "./products/image/tostadora_001",
-              "./products/image/tostadora_002"
-            ]
+            "foto": "./products/image/tostadora_001",
+            "alt": "Tostadora"
           },
           {
             "id": 3,
@@ -48,17 +35,8 @@
             "modelo": "CF120",
             "origen": "Italia",
             "descripcion": "Voltaje: 220V\nCafetera expresso.\nPreparación rápida de café con calidad de barista.\nSistema semi automático fácil de usar y programar\nMaterial robusto de acero inoxidable.\nCTamaño de depósito de agua (1.5 L)\nIncluye espumador de leche para bebidas especiales\nPosibilidad de preparar 1 o 2 tazas simultáneas\nEspumador de leche integrado.",
-          
-            "fotos": [
-          {
-            "url": "./products/image/cafetera_001.png",
+            "foto": "./products/image/cafetera_001.png",
             "alt": "Cafetera digital express para 2 tazas"
-          },
-          {
-           "url": "./products/image/cafetera_002.png",
-           "alt": "vista de cerca de filtro de café."
-          }
-          ]
         },
           {
             "id": 4,
@@ -68,17 +46,8 @@
             "modelo": "BT300",
             "origen": "China",
             "descripcion":"Voltaje: 220V\nPotente motor de 325 W para un rendimiento óptimo.\n10 velocidades ajustables para mayor versatilidad.\nDiseño planetario para mezclas uniformes y completas\nIdeal para pastelería: amasar, batir y mezclar.\nFácil limpieza gracias a su función desmontable\nGran capacidad de 4,8 litros para recetas abundantes.",
-            "fotos": [{
-              "url": ".products/image/batidora_001",
-              "alt": "foto de batidora profesional negra, con bol de diseño planetario de acero inoxidable"
-            },
-            {
-              "url": ".products/image/batidora_002",
-              "alt": "foto de cerca, donde se observa la parte de batidor de alambre"
-            }
-              
-              
-            ]
+            "foto": ".products/image/batidora_001",
+            "alt": "foto de batidora profesional negra, con bol de diseño planetario de acero inoxidable"
           },
           {
             "id": 5,
@@ -88,18 +57,8 @@
             "modelo": "PL2000",
             "origen": "China",
             "descripcion":"Voltaje: 220V\nPara uso domestico\na vapor\nRociador\nÁgil y dinámica.",
-            "fotos": [{
-              "url": "./products/image/plancha_001",
-              "al": "foto de plancha blanca y rosa"
-
-            },
-            {
-              "url": ".products/image/plancha_002",
-              "alt": "foto de una persona planchando"
-            }
-              
-              
-            ]
+            "foto": "./products/image/plancha_001",
+            "alt": "foto de plancha blanca y rosa"
           },
           {
             "id": 6,
@@ -109,18 +68,8 @@
             "modelo": "AS1200",
             "origen": "Taiwan",
             "descripcion":"Voltaje: 220V\nLava tus superficies.\nManguera de 2.5m de largo.\nEs apta para líquido.\nFuente de alimentación: corriente eléctrica.\nSe enciende manualmente.\nSu potencia es de 1250W.\nCable de 8m de largo.\nIncluye accesorios.",
-            "fotos": [
-              {
-                "url": "./products/image/aspiradora_001",
-                "alt": "foto de aspiradora indutrial de tacho color amarilla"
-              },
-              {
-                "url": "./products/image/aspiradora_002",
-                "alt": "foto de una alfombra aspirada con muy alta calidad"
-              }
-              
-              
-            ]
+            "foto":"./products/image/aspiradora_001",
+            "alt": "foto de aspiradora indutrial de tacho color amarilla"
           }
         ]
       },
@@ -135,17 +84,8 @@
             "modelo": "HN300",
             "origen": "Canada",
             "descripcion":"Voltaje: 220V\nUbicación superior del freezer.\nDimensiones: 59.5 cm de ancho, 179 cm de alto y 62 cm de profundidad.\nEstilos de los años 50 con la potencia del Siglo XXI",
-            "fotos": [
-              {
-                "url": "./products/image/heladera_004",
-                "alt": "foto de heladera nueva de aspecto vintage de los 50, color naranja"
-              },
-              {
-                "url":  "./products/image/heladera_005",
-                "alt": "foto de heladera nueva de aspecto vintage de los 50, color lila"
-              }
-             
-            ]
+            "foto": "./products/image/heladera_004",
+            "alt": "foto de heladera nueva de aspecto vintage de los 50, color naranja"
           },
           {
             "id": 8,
@@ -156,13 +96,8 @@
             "origen": "Brasil",
             "descripcion":"Dimensiones: 50 cm de ancho, 83.5 cm de alto y 52 cm de profundidad.\nToda la Potencia\nTemperatura de hasta -25°C",
             "alt":"xxx",
-            "fotos": [
-              {
-                "url": "./products/image/freezer_001",
-                "alt": "foto de freezer blanco"
-              }
-              
-            ]
+            "foto": "./products/image/freezer_001",
+            "alt": "foto de freezer blanco"
           },
           {
             "id": 9,
@@ -172,12 +107,8 @@
             "modelo": "HC400",
             "origen": "México",
             "descripcion":"Voltaje: 220V\nFreezer superior con control de temperatura.\nDimensiones: 614 mm de ancho, 1427 mm de alto y 621 mm de profundidad.\nCuenta con organizador de botellas y huevera.",
-            "fotos": [
-              {
-             "url":"./products/image/heladera_001.jpg",
-             "alt": "foto de heladera con freezer"
-              }
-            ]
+            "foto": "./products/image/heladera_001.jpg",
+            "alt": "foto de heladera con freezer"
           }
           
         ]
@@ -193,14 +124,8 @@
             "modelo": "STV50",
             "origen": "Corea del Sur",
             "descripcion":"Tamaño de la pantalla: 50 pulgadas\nCuenta con wi-fi y puerto de red.\nCuenta con 3 puertos HDMI.\nCuenta con conexión USB.\nCon conectividad mediante Bluetooth\nDimensiones: 1116.8mm de ancho, 644mm de alto y 59.9mm de profundidad.",
-            
-            "fotos": [
-              {
-                "url": "./products/image/tv_001.jpg",
-                "alt": "foto de televisor de 50 pulgadas"
-              }
-             
-            ]
+            "foto": "./products/image/tv_001.jpg",
+            "alt": "foto de televisor de 50 pulgadas"
           },
           {
             "id": 14,
@@ -210,19 +135,8 @@
             "modelo": "BS300",
             "origen": "Japón",
             "descripcion":"Parlante Portaltil\nApto para uso en exteriores.\nEs a prueba de agua.\nCon conectividad bluetooth.\nBatería recargable.\nPotencia de 30W.\nConector de entrada: USB-C.\nDimensiones: 178mm de ancho, 68mm de alto y 72mm de profundidad.",
-            
-            "fotos": [
-              {
-                "url":  "./products/image/parlante_002.jpg",
-                "alt": "Foto de parlante color rojo"
-              },
-              {
-                "url": "./products/image/parlante_001.jpg",
-                "alt": "foto de paarlante color negro"
-              }
-             
-              
-            ]
+            "foto":"./products/image/parlante_002.jpg",
+            "alt": "Foto de parlante color rojo"
           },
           {
             "id": 15,
@@ -232,21 +146,8 @@
             "modelo": "HT1000",
             "origen": "Estados Unidos",
             "descripcion":"Para PlayStation5\nCable HDMI",
-            
-            "fotos": [
-              {
-                "url": "./products/image/realidad_001.jpg",
-                "alt": "foto de un joven usando anteojos de realidad aumentada"
-              },
-              {
-                "url": "./products/image/realidad_002.jpg",
-                "alt": "foto de una chica usando anteojos de realidad aumentada"
-              }
-        
-
-              
-              
-            ]
+            "foto": "./products/image/realidad_002.jpg",
+            "alt": "foto de una chica usando anteojos de realidad aumentada" 
           },
           {
             "id": 16,
@@ -256,10 +157,9 @@
             "modelo": "PJ3000",
             "origen": "China",
             "descripcion":"Voltaje: 110/220V\nConexiones de entrada: VGA.\nConexiones de salida: Mini jack.\nConsumo energético de 240W.\nResolución nativa: 800px x 600px.\nSoporta resoluciones Full HD 1080p.\nTecnología de proyección DLP.\nRelación de contraste 22000:1.",
+            "foto": "./products/image/proyector_001.jpg",
+            "alt":"foto de proyector"
             
-            "fotos": [
-              "./products/image/proyector_001.jpg"
-            ]
           },
           {
             "id": 17,
@@ -269,13 +169,8 @@
             "modelo": "BR4K",
             "origen": "Japón",
             "descripcion":"Modo manos libres incluido.\nAsistente de voz integrado: Siri.\nCon micrófono incorporado.\nUso apto para juegos.",
-            "fotos": [
-              {
-                "url":  "./products/image/auricularInalambrico_002.jpg",
-                "alt": "foto de auriculares Inalámbricos vincha color azul"
-              }
-             
-            ]
+            "foto": "./products/image/auricularInalambrico_002.jpg",
+            "alt": "foto de auriculares Inalámbricos vincha color azul" 
           },
           {
             "id": 18,
@@ -285,13 +180,8 @@
             "modelo": "AI800",
             "origen": "Estados Unidos",
             "descripcion":"lorem",
-            "fotos": [
-              {
-                "url": "./products/image/auricularInalambrico_001.jpg",
-                "alt": "auricular inalambrico pequeños con su estuche, color negro"
-              }
-              
-            ]
+            "foto": "./products/image/auricularInalambrico_001.jpg",
+            "alt": "auricular inalambrico pequeños con su estuche, color negro"
           }
         ]
       },
@@ -306,12 +196,8 @@
             "modelo": "LP850",
             "origen": "Estados Unidos",
             "descripcion":"Resolución de 1920x1080 px.\nPlaca de video Gráficos Intel Iris Xe.\nConexión wifi y bluetooth.\nCuenta con 4 puertos USB y puerto HDMI.\nModo de sonido SonicMaster.",
-            "fotos": [
-              {
-              "url": "./products/image/laptop.jpg",
-              "alt": "foto de laptop moderna"
-              }
-            ]
+            "foto": "./products/image/laptop.jpg",
+            "alt": "foto de laptop moderna"
           },
           {
             "id": 19,
@@ -321,14 +207,8 @@
             "modelo": "LBO923",
             "origen": "China",
             "descripcion":"Sistema: Android 13.\nPantalla 7” - 1024x600 HD.\nCPU: A133 Quad core 1.5GHz\nMemoria RAM: 4GB.\nAlmacenamiento: 64GB. Expandible por MicroSd hasta 1T\nCámara Dual.\nResolución cámara delantera: 0.3Mpx. / cámara trasera: 2.0Mpx.",
-            "fotos": [
-              {
-                "url": "./products/image/tablet_001",
-                "alt": "foto de tablet"
-              }
-              
-              
-            ]
+            "foto": "./products/image/tablet_001",
+            "alt": "foto de tablet"
           },
           {
             "id": 20,
@@ -338,13 +218,8 @@
             "modelo": "JMT50",
             "origen": "Estados Unidos",
             "descripcion":"Impresión manual a doble cara.\nTecnología de impresión: inyección de tinta.\nTiene un puerto USB.\nCapacidad máxima de 100 hojas.",
-            "fotos": [
-              {
-                "url":  "./products/image/impresora_001.jpg",
-                "alt": "foto de impresora multifunción negra."
-              }
-             
-            ]
+            "foto": "./products/image/impresora_001.jpg",
+            "alt": "foto de impresora multifunción negra."
           }
           
           ]
