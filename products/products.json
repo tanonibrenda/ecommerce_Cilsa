@@ -10,14 +10,23 @@
             "caracteristicas": "600W, 1.5L, 3 velocidades",
             "modelo": "BL600",
             "origen": "Argentina",
-            "descripcion":"lorem",
-            "alt":"xxx",
-            "fotos": [
-              "./products/image/licuadora_001.png",
-              "./products/image/licuadora_002"
+            "descripcion": "Material de la jarra: Vidrio\nVoltaje: 220V.\nCapacidad de 2.2 L.\nSu potencia es de 1400 W.\nCon base antideslizante y carcasa anti ruidos.\nCuchilla resistente de acero inoxidable.\nTapa dosificadora incorporada.\nFunciona con 8 velocidades.\nCuenta con cierre de seguridad.\nLibre de BPA.\nIncluye jarra portátil.\nPica hielo.\nCon cuchilla removible.\nCantidad de cuchillas: 6.",
             
+            "fotos": [
+              {
+                "url": "./products/image/licuadora_001.png",
+                "alt": "imagen de licuadora BL600"
+              },
+              {
+                "url": "./products/image/licuadora_002.png",
+                "alt": "foto de una persona usando la licuadora"
+
+              }
+              
+              
             ]
           },
+          
           {
             "id": 2,
             "nombre": "Tostadora",
@@ -25,10 +34,9 @@
             "caracteristicas": "2 rebanadas, 7 niveles de tostado",
             "modelo": "HF35",
             "origen": "Brasil",
-            "descripcion":"lorem",
-            "alt":"xxx",
+            "descripcion": "Voltaje: 220V\nRenová tus comidas y lucite en el hogar.\nComplemento ideal para desayunos y meriendas.\nCon capacidad para 2 rebanadas.\nPotencia de 700W.\nCuenta con 7 niveles de tostado.\nDispone de bandeja recoge migas.",
             "fotos": [
-              ".products/image/tostadora_001",
+              "./products/image/tostadora_001",
               "./products/image/tostadora_002"
             ]
           },
@@ -36,16 +44,22 @@
             "id": 3,
             "nombre": "Cafetera",
             "precio": 450000,
-            "caracteristicas": "cafetera profesional",
+            "caracteristicas": "cafetera expresso digital",
             "modelo": "CF120",
             "origen": "Italia",
-            "descripcion":"lorem",
-            "alt":"xxx",
+            "descripcion": "Voltaje: 220V\nCafetera expresso.\nPreparación rápida de café con calidad de barista.\nSistema semi automático fácil de usar y programar\nMaterial robusto de acero inoxidable.\nCTamaño de depósito de agua (1.5 L)\nIncluye espumador de leche para bebidas especiales\nPosibilidad de preparar 1 o 2 tazas simultáneas\nEspumador de leche integrado.",
+          
             "fotos": [
-              ".products/image/cafetera_001",
-              "./products/image/cafetera_002"
-            ]
+          {
+            "url": "./products/image/cafetera_001.png",
+            "alt": "Cafetera digital express para 2 tazas"
           },
+          {
+           "url": "./products/image/cafetera_002.png",
+           "alt": "vista de cerca de filtro de café."
+          }
+          ]
+        },
           {
             "id": 4,
             "nombre": "Batidora",
@@ -53,10 +67,17 @@
             "caracteristicas": "5 velocidades, 300W",
             "modelo": "BT300",
             "origen": "China",
-            "descripcion":"lorem",
-            "fotos": [
-              ".products/image/batidora_001",
-              ".products/image/batidora_002"
+            "descripcion":"Voltaje: 220V\nPotente motor de 325 W para un rendimiento óptimo.\n10 velocidades ajustables para mayor versatilidad.\nDiseño planetario para mezclas uniformes y completas\nIdeal para pastelería: amasar, batir y mezclar.\nFácil limpieza gracias a su función desmontable\nGran capacidad de 4,8 litros para recetas abundantes.",
+            "fotos": [{
+              "url": ".products/image/batidora_001",
+              "alt": "foto de batidora profesional negra, con bol de diseño planetario de acero inoxidable"
+            },
+            {
+              "url": ".products/image/batidora_002",
+              "alt": "foto de cerca, donde se observa la parte de batidor de alambre"
+            }
+              
+              
             ]
           },
           {
@@ -66,25 +87,39 @@
             "caracteristicas": "2000W, vapor continuo",
             "modelo": "PL2000",
             "origen": "China",
-            "descripcion":"lorem",
-            "alt":"xxx",
-            "fotos": [
-              "./products/image/plancha_001",
-              ".products/image/plancha_002"
+            "descripcion":"Voltaje: 220V\nPara uso domestico\na vapor\nRociador\nÁgil y dinámica.",
+            "fotos": [{
+              "url": "./products/image/plancha_001",
+              "al": "foto de plancha blanca y rosa"
+
+            },
+            {
+              "url": ".products/image/plancha_002",
+              "alt": "foto de una persona planchando"
+            }
+              
+              
             ]
           },
           {
             "id": 6,
-            "nombre": "Aspiradora",
+            "nombre": "Aspiradora Indutrial de Tacho",
             "precio": 7500,
             "caracteristicas": "1200W, aspiradora de tacho",
             "modelo": "AS1200",
             "origen": "Taiwan",
-            "descripcion":"lorem",
-            "alt":"xxx",
+            "descripcion":"Voltaje: 220V\nLava tus superficies.\nManguera de 2.5m de largo.\nEs apta para líquido.\nFuente de alimentación: corriente eléctrica.\nSe enciende manualmente.\nSu potencia es de 1250W.\nCable de 8m de largo.\nIncluye accesorios.",
             "fotos": [
-              "./products/image/aspiradora_001",
-              "./products/image/aspiradora_002"
+              {
+                "url": "./products/image/aspiradora_001",
+                "alt": "foto de aspiradora indutrial de tacho color amarilla"
+              },
+              {
+                "url": "./products/image/aspiradora_002",
+                "alt": "foto de una alfombra aspirada con muy alta calidad"
+              }
+              
+              
             ]
           }
         ]
@@ -99,11 +134,17 @@
             "caracteristicas": "300L, eficiencia A+",
             "modelo": "HN300",
             "origen": "Canada",
-            "descripcion":"lorem",
-            "alt":"xxx",
+            "descripcion":"Voltaje: 220V\nUbicación superior del freezer.\nDimensiones: 59.5 cm de ancho, 179 cm de alto y 62 cm de profundidad.\nEstilos de los años 50 con la potencia del Siglo XXI",
             "fotos": [
-              "./products/image/heladera_004",
-              "./products/image/heladera_005"
+              {
+                "url": "./products/image/heladera_004",
+                "alt": "foto de heladera nueva de aspecto vintage de los 50, color naranja"
+              },
+              {
+                "url":  "./products/image/heladera_005",
+                "alt": "foto de heladera nueva de aspecto vintage de los 50, color lila"
+              }
+             
             ]
           },
           {
@@ -113,23 +154,29 @@
             "caracteristicas": "200L, eficiencia A",
             "modelo": "FH200",
             "origen": "Brasil",
-            "descripcion":"lorem",
+            "descripcion":"Dimensiones: 50 cm de ancho, 83.5 cm de alto y 52 cm de profundidad.\nToda la Potencia\nTemperatura de hasta -25°C",
             "alt":"xxx",
             "fotos": [
-              "./products/image/freezer_001"
+              {
+                "url": "./products/image/freezer_001",
+                "alt": "foto de freezer blanco"
+              }
+              
             ]
           },
           {
             "id": 9,
-            "nombre": "Heladera Combye 2 puertas",
+            "nombre": "Heladera Combye Silver",
             "precio": 2550000,
             "caracteristicas": "400L, eficiencia A++",
             "modelo": "HC400",
             "origen": "México",
-            "descripcion":"lorem",
-            "alt":"xxx",
+            "descripcion":"Voltaje: 220V\nFreezer superior con control de temperatura.\nDimensiones: 614 mm de ancho, 1427 mm de alto y 621 mm de profundidad.\nCuenta con organizador de botellas y huevera.",
             "fotos": [
-             "./products/image/heladera_001.jpg"
+              {
+             "url":"./products/image/heladera_001.jpg",
+             "alt": "foto de heladera con freezer"
+              }
             ]
           }
           
@@ -145,24 +192,36 @@
             "caracteristicas": "4K UHD, HDR",
             "modelo": "STV50",
             "origen": "Corea del Sur",
-            "descripcion":"lorem",
-            "alt":"xxx",
+            "descripcion":"Tamaño de la pantalla: 50 pulgadas\nCuenta con wi-fi y puerto de red.\nCuenta con 3 puertos HDMI.\nCuenta con conexión USB.\nCon conectividad mediante Bluetooth\nDimensiones: 1116.8mm de ancho, 644mm de alto y 59.9mm de profundidad.",
+            
             "fotos": [
-             "./products/image/tv_001.jpg"
+              {
+                "url": "./products/image/tv_001.jpg",
+                "alt": "foto de televisor de 50 pulgadas"
+              }
+             
             ]
           },
           {
             "id": 14,
-            "nombre": "Barra de Sonido",
+            "nombre": "Parlante Bluetooth",
             "precio": 300000,
             "caracteristicas": "Bluetooth, 300W",
             "modelo": "BS300",
             "origen": "Japón",
-            "descripcion":"lorem",
-            "alt":"xxx",
+            "descripcion":"Parlante Portaltil\nApto para uso en exteriores.\nEs a prueba de agua.\nCon conectividad bluetooth.\nBatería recargable.\nPotencia de 30W.\nConector de entrada: USB-C.\nDimensiones: 178mm de ancho, 68mm de alto y 72mm de profundidad.",
+            
             "fotos": [
-              "./products/image/parlante_002.jpg",
-              ".products/image/parlante_001.jpg"
+              {
+                "url":  "./products/image/parlante_002.jpg",
+                "alt": "Foto de parlante color rojo"
+              },
+              {
+                "url": "./products/image/parlante_001.jpg",
+                "alt": "foto de paarlante color negro"
+              }
+             
+              
             ]
           },
           {
@@ -172,11 +231,21 @@
             "caracteristicas": "5.1 canales, 1000W",
             "modelo": "HT1000",
             "origen": "Estados Unidos",
-            "descripcion":"lorem",
-            "alt":"xxx",
+            "descripcion":"Para PlayStation5\nCable HDMI",
+            
             "fotos": [
-              "./products/image/realidad_001.jpg",
-              "./products/image/realidad_002.jpg"
+              {
+                "url": "./products/image/realidad_001.jpg",
+                "alt": "foto de un joven usando anteojos de realidad aumentada"
+              },
+              {
+                "url": "./products/image/realidad_002.jpg",
+                "alt": "foto de una chica usando anteojos de realidad aumentada"
+              }
+        
+
+              
+              
             ]
           },
           {
@@ -186,8 +255,8 @@
             "caracteristicas": "Full HD, 3000 lúmenes",
             "modelo": "PJ3000",
             "origen": "China",
-            "descripcion":"lorem",
-            "alt":"xxx",
+            "descripcion":"Voltaje: 110/220V\nConexiones de entrada: VGA.\nConexiones de salida: Mini jack.\nConsumo energético de 240W.\nResolución nativa: 800px x 600px.\nSoporta resoluciones Full HD 1080p.\nTecnología de proyección DLP.\nRelación de contraste 22000:1.",
+            
             "fotos": [
               "./products/image/proyector_001.jpg"
             ]
@@ -199,10 +268,13 @@
             "caracteristicas": "4K UHD, Wi-Fi",
             "modelo": "BR4K",
             "origen": "Japón",
-            "descripcion":"lorem",
-            "alt":"xxx",
+            "descripcion":"Modo manos libres incluido.\nAsistente de voz integrado: Siri.\nCon micrófono incorporado.\nUso apto para juegos.",
             "fotos": [
-              "./products/image/auricularInalambrico_002.jpg"
+              {
+                "url":  "./products/image/auricularInalambrico_002.jpg",
+                "alt": "foto de auriculares Inalámbricos vincha color azul"
+              }
+             
             ]
           },
           {
@@ -213,9 +285,12 @@
             "modelo": "AI800",
             "origen": "Estados Unidos",
             "descripcion":"lorem",
-            "alt":"xxx",
             "fotos": [
-              "./products/image/auricularInalambrico_001.jpg"
+              {
+                "url": "./products/image/auricularInalambrico_001.jpg",
+                "alt": "auricular inalambrico pequeños con su estuche, color negro"
+              }
+              
             ]
           }
         ]
@@ -226,14 +301,16 @@
           {
             "id": 19,
             "nombre": "Laptop",
-            "precio": 858000,
+            "precio": 1580000,
             "caracteristicas": "Intel i7, 16GB RAM, 512GB SSD",
             "modelo": "LP850",
             "origen": "Estados Unidos",
-            "descripcion":"lorem",
-            "alt":"xxx",
+            "descripcion":"Resolución de 1920x1080 px.\nPlaca de video Gráficos Intel Iris Xe.\nConexión wifi y bluetooth.\nCuenta con 4 puertos USB y puerto HDMI.\nModo de sonido SonicMaster.",
             "fotos": [
-              "./products/image/laptop.jpg"
+              {
+              "url": "./products/image/laptop.jpg",
+              "alt": "foto de laptop moderna"
+              }
             ]
           },
           {
@@ -243,24 +320,30 @@
             "caracteristicas": "7 pulgadas, memoria 64 GB, RAM 4GB, procesador Quad Core 1.5GHz",
             "modelo": "LBO923",
             "origen": "China",
-            "descripcion":"lorem",
-            "alt":"xxx",
+            "descripcion":"Sistema: Android 13.\nPantalla 7” - 1024x600 HD.\nCPU: A133 Quad core 1.5GHz\nMemoria RAM: 4GB.\nAlmacenamiento: 64GB. Expandible por MicroSd hasta 1T\nCámara Dual.\nResolución cámara delantera: 0.3Mpx. / cámara trasera: 2.0Mpx.",
             "fotos": [
-              "./porducts/image/tablet_001"
+              {
+                "url": "./products/image/tablet_001",
+                "alt": "foto de tablet"
+              }
+              
               
             ]
           },
           {
             "id": 20,
-            "nombre": "Impresora",
+            "nombre": "Impresora Multifunción",
             "precio": 500000,
             "caracteristicas": "multifunción, velocidad impresion 3 PPM, resolución escaneo 1920 x19200",
             "modelo": "JMT50",
             "origen": "Estados Unidos",
-            "descripcion":"lorem",
-            "alt":"xxx",
+            "descripcion":"Impresión manual a doble cara.\nTecnología de impresión: inyección de tinta.\nTiene un puerto USB.\nCapacidad máxima de 100 hojas.",
             "fotos": [
-              "./products/image/impresora_001.jpg"
+              {
+                "url":  "./products/image/impresora_001.jpg",
+                "alt": "foto de impresora multifunción negra."
+              }
+             
             ]
           }
           
