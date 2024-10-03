@@ -6,7 +6,7 @@ document.getElementById('registerForm').addEventListener('submit', function(even
     const password = document.getElementById('password').value;
     const registerMessage = document.getElementById('registerMessage');
 
-    fetch('../user/users.json')
+    fetch('users/user.json') // Asegúrate de que la ruta sea correcta
         .then(response => response.json())
         .then(data => {
             const usuarios = data.usuarios;
@@ -29,3 +29,4 @@ document.getElementById('registerForm').addEventListener('submit', function(even
         })
         .catch(error => console.error('Error al cargar los usuarios:', error));
 });
+
