@@ -2,7 +2,8 @@
     "usuarios": [
       {
         "id": 1,
-        "nombre": "Juan Pérez",
+        "nombre": "Juan",
+        "apellido": "Perez",
         "email": "juan@example.com",
         "password": "password123",
         "rol": "comprador"

@@ -6,7 +6,7 @@ document.getElementById('registerForm').addEventListener('submit', function(even
     const password = document.getElementById('password').value;
     const registerMessage = document.getElementById('registerMessage');
 
-    fetch('users/user.json') // Asegúrate de que la ruta sea correcta
+    fetch('users/user.json') 
         .then(response => response.json())
         .then(data => {
             const usuarios = data.usuarios;
