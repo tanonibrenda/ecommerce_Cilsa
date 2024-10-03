@@ -45,7 +45,7 @@
                   
                   
                 </ul>
-                <form class="d-flex" role="search">
+                <form class="d-flex" role="search" onsubmit="searchProduct(event)">
                   <input class="form-control me-2" type="search" aria-label="Search" id="searchInput">
                   <button class="btn btn-outline-success" type="submit" >Buscar</button>
                 </form>
@@ -61,3 +61,5 @@
 
         
     </header>
+    <div id="results"></div>
+    <script src="./js/search.js"></script>
