@@ -1,7 +1,7 @@
 let listaProductos = [];
 let products = [];
 
-fetch('./../products/products.json')
+fetch('products/products.json')
     .then(response => response.json())
     .then(data => {
         products = data.productos;
