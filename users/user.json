@@ -1,0 +1,19 @@
+{
+    "usuarios": [
+      {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "email": "juan@example.com",
+        "password": "password123",
+        "rol": "comprador"
+      },
+      {
+        "id": 2,
+        "nombre": "Ana Gómez",
+        "email": "ana@example.com",
+        "password": "admin123",
+        "rol": "administrador"
+      }
+    ]
+  }
+  
